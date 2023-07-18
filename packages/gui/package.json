@@ -166,7 +166,7 @@
     "bignumber.js": "9.0.2",
     "byte-size": "8.1.0",
     "chokidar": "3.5.3",
-    "core-js": "3.20.3",
+    "core-js": "3.31.0",
     "crypto-browserify": "3.12.0",
     "debug": "4.3.4",
     "dotenv": "14.2.0",
