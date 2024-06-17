@@ -203,7 +203,7 @@
     "unique-names-generator": "4.6.0",
     "validator": "13.9.0",
     "victory": "^36.6.6",
-    "ws": "8.4.2"
+    "ws": "8.17.1"
   },
   "devDependencies": {
     "@babel/core": "7.21.0",
