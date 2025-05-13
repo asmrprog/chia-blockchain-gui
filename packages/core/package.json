@@ -22,7 +22,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@babel/runtime": "7.16.7",
+    "@babel/runtime": "7.26.10",
     "@chia-network/icons": "1.0.0",
     "@emoji-mart/data": "1.1.2",
     "@fontsource/roboto": "4.5.1",
